@@ -1,0 +1,9 @@
+body{
+    background-color: cornsilk;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    justify-content: space-between;
+}
+h2{padding-top:20px;}
+img{ margin-left:50px;}
